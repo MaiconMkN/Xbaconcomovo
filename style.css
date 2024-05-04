@@ -3,7 +3,10 @@
             color: white;
             display: flex;
             justify-content: space-around;
+            align-items: center;
+            majin: 24px;
             }
          .cabecalho-imagem{
             width: 20%;
         }
+         .cabecalho-lista-item{}
